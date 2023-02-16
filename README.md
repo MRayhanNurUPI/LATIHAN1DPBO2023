@@ -48,13 +48,27 @@ Saya Muhammad Rayhan Nur [2100192] mengerjakan Latihan 1 Praktikum dalam mata ku
   
  ## Dokumentasi Program saat Dijalankan
   ### Bahasa C++ / Python / Java
+  + Menu Awal
   ![alt text](https://github.com/MRayhanNurUPI/LATIHAN1DPBO2023/blob/main/Screenshot%20Using%20Program/CPP/1-main-menu.jpg)
+  
+  + Tambah Data
   ![alt text](https://github.com/MRayhanNurUPI/LATIHAN1DPBO2023/blob/main/Screenshot%20Using%20Program/CPP/2-add-data.jpg)
+  
+  + Tampilkan Daftar setelah Menambahkan Data
   ![alt text](https://github.com/MRayhanNurUPI/LATIHAN1DPBO2023/blob/main/Screenshot%20Using%20Program/CPP/3-show-list-after-add.jpg)
+  
+  + Sunting Data
   ![alt text](https://github.com/MRayhanNurUPI/LATIHAN1DPBO2023/blob/main/Screenshot%20Using%20Program/CPP/4-edit-data.jpg)
+  
+  + Tampilkan Daftar setelah Menyunting Data
   ![alt text](https://github.com/MRayhanNurUPI/LATIHAN1DPBO2023/blob/main/Screenshot%20Using%20Program/CPP/5-show-list-after-edit.jpg)
-  ![alt text](https://github.com/MRayhanNurUPI/LATIHAN1DPBO2023/blob/main/Screenshot%20Using%20Program/CPP/6-delete-data.jpg)
+  
+  + Menghapus Data
+  ![alt text](https://github.com/MRayhanNurUPI/LATIHAN1DPBO2023/blob/main/Screenshot%20Using%20Program/CPP/6-deleted-data.jpg)
+  
+  + Tampilkan Daftar setelah Menghapus Data
   ![alt text](https://github.com/MRayhanNurUPI/LATIHAN1DPBO2023/blob/main/Screenshot%20Using%20Program/CPP/7-show-list-after-delete.jpg)
  
   ### Bahasa PHP
+  + Menampilkan Daftar setelah dilakukannya Proses Menambahkan Data, Menyunting Data, dan Menghapus Data (*secara hard-code*) 
   ![alt text](https://github.com/MRayhanNurUPI/LATIHAN1DPBO2023/blob/main/Screenshot%20Using%20Program/PHP/show-list-in-php.jpg)
