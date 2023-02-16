@@ -48,5 +48,13 @@ Saya Muhammad Rayhan Nur [2100192] mengerjakan Latihan 1 Praktikum dalam mata ku
   
  ## Dokumentasi Program saat Dijalankan
   ### Bahasa C++ / Python / Java
+  ![alt text](https://github.com/MRayhanNurUPI/LATIHAN1DPBO2023/blob/main/Screenshot%20Using%20Program/CPP/1-main-menu.jpg)
+  ![alt text](https://github.com/MRayhanNurUPI/LATIHAN1DPBO2023/blob/main/Screenshot%20Using%20Program/CPP/2-add-data.jpg)
+  ![alt text](https://github.com/MRayhanNurUPI/LATIHAN1DPBO2023/blob/main/Screenshot%20Using%20Program/CPP/3-show-list-after-add.jpg)
+  ![alt text](https://github.com/MRayhanNurUPI/LATIHAN1DPBO2023/blob/main/Screenshot%20Using%20Program/CPP/4-edit-data.jpg)
+  ![alt text](https://github.com/MRayhanNurUPI/LATIHAN1DPBO2023/blob/main/Screenshot%20Using%20Program/CPP/5-show-list-after-edit.jpg)
+  ![alt text](https://github.com/MRayhanNurUPI/LATIHAN1DPBO2023/blob/main/Screenshot%20Using%20Program/CPP/6-delete-data.jpg)
+  ![alt text](https://github.com/MRayhanNurUPI/LATIHAN1DPBO2023/blob/main/Screenshot%20Using%20Program/CPP/7-show-list-after-delete.jpg)
  
   ### Bahasa PHP
+  ![alt text](https://github.com/MRayhanNurUPI/LATIHAN1DPBO2023/blob/main/Screenshot%20Using%20Program/PHP/show-list-in-php.jpg)
