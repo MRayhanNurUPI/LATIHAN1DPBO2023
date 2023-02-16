@@ -1,4 +1,4 @@
-# LATIHAN 1 DPBO 2023
+# LATIHAN 1 PRAKTIKUM DPBO 2023
 
 ## Janji
 Saya Muhammad Rayhan Nur [2100192] mengerjakan Latihan 1 Praktikum dalam mata kuliah Desain Pemrograman Beriorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
@@ -13,19 +13,19 @@ Saya Muhammad Rayhan Nur [2100192] mengerjakan Latihan 1 Praktikum dalam mata ku
    Saya menggunakan 1 class saja, yaitu kelas Mahasiswa.
    
 ## Penjelasan Class
-### Class Mahasiswa
-Class Mahasiswa memiliki atribut:
-  1. Nama
-  2. NIM
-  3. Prodi (Program Studi)
-  4. Fakultas
+ ### Class Mahasiswa
+ Class Mahasiswa memiliki atribut:
+   1. Nama
+   2. NIM
+   3. Prodi (Program Studi)
+   4. Fakultas
   
-### Class Menu
-Class Menu merupakan class yang hanya terdiri dari metode-metode untuk memodifikasi data daftar mahasiswa. Metode-metodenya yakni:
-1) tambahDataMhs(), yakni untuk **menambahkan data** baru ke dalam daftar.
-2) suntingDataMhs(), yakni untuk **menyunting data** mahasiswa yang ada di dalam daftar.
-3) hapusDataMhs(), yakni untuk **menghapus data** mahasiswa dari dalam daftar.
-4) tampilkanDataMhs(), yakni untuk **menampilkan daftar** data mahasiswa yang ada.
+ ### Class Menu
+ Class Menu merupakan class yang hanya terdiri dari metode-metode untuk memodifikasi data daftar mahasiswa. Metode-metodenya yakni:
+ 1) tambahDataMhs(), yakni untuk **menambahkan data** baru ke dalam daftar.
+ 2) suntingDataMhs(), yakni untuk **menyunting data** mahasiswa yang ada di dalam daftar.
+ 3) hapusDataMhs(), yakni untuk **menghapus data** mahasiswa dari dalam daftar.
+ 4) tampilkanDataMhs(), yakni untuk **menampilkan daftar** data mahasiswa yang ada.
 
 ## Alur Program
 - Untuk Bahasa C++, Java, dan Python:
@@ -45,3 +45,8 @@ Class Menu merupakan class yang hanya terdiri dari metode-metode untuk memodifik
 - Untuk Bahasa PHP:
   1. Proses menambahkan, menyunting, serta menghapus data dilakukan secara *hard-code*.
   2. Program akan langsung menampilkan daftar mahasiswa setelah proses-proses sebelumnya dijalankan secara bergantian.
+  
+ ## Dokumentasi Program saat Dijalankan
+  ### Bahasa C++ / Python / Java
+ 
+  ### Bahasa PHP
